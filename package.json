@@ -1,0 +1,25 @@
+{
+  "name": "myflix",
+  "version": "1.0.0",
+  "description": "Like Netflix",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mo7deve/myflix.git"
+  },
+  "keywords": [
+    "node",
+    "docker",
+    "dockerfile"
+  ],
+  "author": "mo7deve@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mo7deve/myflix/issues"
+  },
+  "homepage": "https://github.com/mo7deve/myflix#readme"
+}
