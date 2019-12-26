@@ -1,7 +1,7 @@
 {
   "name": "myflix",
   "version": "1.0.0",
-  "description": "Like Netflix",
+  "description": "Like Netflix Web App",
   "main": "index.js",
   "scripts": {
     "test": "node test.js",
